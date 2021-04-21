@@ -30,8 +30,8 @@ namespace BOTEST
     public partial class MainWindow : Window
     {
         private Quik _quik;
-        private string secCode = "SBER";
-        private string classCode = "QJSIM";
+        private string secCode = "SiM1"; // "SBER";
+        private string classCode = "SPBFUT"; // "QJSIM";
         private string clientCode;
         private Tool tool;
 
